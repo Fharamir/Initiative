@@ -6,6 +6,8 @@ As you can see, I'm a D&amp;D fan and I made tons of tools to simplify, help or 
 
 PS: I probably was drunk when I drawn the GUI, look at that red squares! lol
 
+Have a nice day :)
+
 # Other
 Author: Fharamir
 
