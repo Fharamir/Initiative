@@ -1,0 +1,13 @@
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Release\Iniziativa.exe.config
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Release\Iniziativa.exe
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Release\Iniziativa.pdb
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.Main.resources
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.Properties.Resources.resources
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.csproj.GenerateResource.Cache
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.exe
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.pdb
+C:\Users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.csprojResolveAssemblyReference.cache
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Iniziativa\Iniziativa\bin\Release\Iniziativa.exe.manifest
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Iniziativa\Iniziativa\bin\Release\Iniziativa.application
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.exe.manifest
+C:\Users\federico\Documents\Visual Studio 2013\Projects\Iniziativa\Iniziativa\obj\Release\Iniziativa.application

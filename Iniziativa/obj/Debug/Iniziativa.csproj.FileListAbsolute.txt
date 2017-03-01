@@ -1,0 +1,9 @@
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Debug\Iniziativa.exe.config
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Debug\Iniziativa.exe
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\bin\Debug\Iniziativa.pdb
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.csprojResolveAssemblyReference.cache
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.Main.resources
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.Properties.Resources.resources
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.csproj.GenerateResource.Cache
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.exe
+c:\users\federico\documents\visual studio 2013\Projects\Iniziativa\Iniziativa\obj\Debug\Iniziativa.pdb
